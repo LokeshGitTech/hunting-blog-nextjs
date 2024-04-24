@@ -245,6 +245,11 @@
   padding: 20px;
 }
 
+.navitems {
+  cursor: pointer;
+}
+
+
 .myimg {
   border-radius: 10px;  
 } 
